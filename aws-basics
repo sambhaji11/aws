@@ -1,0 +1,73 @@
+what is cloud?
+cloud is nothing but the on demand delivery of the IT resources whenever required.
+or we can say the cloud is the service of IT resources provided by experts on the cloud such as aws gcp azure.
+
+what are the features of cloud computing?
+scalability  shoud be capable of handling any number of request
+pay for use: you need to pay only for what you use.
+abstract the resources:you dont need to mention the minute details of services or resources you are going to need.
+availability:
+measurable:whatever resource you are using cloud platform can keep the data and metrics about it.
+
+LowCost startup for small companies:
+the less capex and Opex as you are using the resources on the cloud.
+
+less time to market.
+
+what is private cloud?
+if some company wanted their data to be more secure then can go for their own private cloud with the centralized access all over the world
+the problem with this is you have to be rich enough in the first place that you are managing again that burdon of capex and opex and providing the centralized 
+access to all your branches all over the world.
+
+what is public cloud?
+public cloud is generally the cloud provider which provides access to their resources to everybody. so we can say that aws google and azure are the public cloud 
+providers.
+
+what is hybrid cloud?
+hybrid cloud is the thing when some company want to keep some part of their data secure and want to use public cloud for certain resources then they can go for the
+hybrid cloud kind of architecture.
+
+what are categories of cloud services?
+their are basically 3 categories of the cloud services.
+1)IAAS: all these cloud provides are infrastructure as a service because they provide the infrastrure on the cloud and later on you can work on the platform and application
+related stuff.
+2)PAAS :
+In this type of cloud services where you will be given the platform and then you will be deploying your application on that platform. you will deal with the application 
+or your project related stuff .
+3)SAAS: this is the cloud service where you just have to use the service for the specifed amount of time 
+
+4)FAAS : AWS Lambda is function as a service
+5)CAAS. :container platforms are considered as CAAAS
+6)DAAS : desktops as a service.
+
+all these cloud providers provies all the above types of service
+
+what is region and availability zones?
+this is the hierarchy of the cloud infrastructure of amazon.
+they are having region first inside region they will have availability zones and inside availability zone their will be data centers.
+we have choice to select region and availability zones but we dont have the option to choose the data center.
+
+AWS Elastic beanstalk is what kind of servie?
+it is paas
+EC2 is IAAS
+aws itself is SAAS
+AWS Lambda is FAAS
+ECS, ECR, EKS are type of CAAS
+DAAS S3, elasic block store, 
+
+what is the difference between ebs and s3 ? 
+S3 is a object store just like google drive where you cannot install operating system but we can put anything in the form of file there
+what is the difference between ebs and efs?
+ebs cannot be shared across multiple machines at the same time 
+while creating the ebs we have to mention the size but that is not required in case of efs it is just like network drive .
+
+what is s3 glacier?
+glacier is the cheapest data store which can be used for least used or old data archive.
+
+AWS Storage Gateway?
+It is helpful for hybrid storage integration.
+some data i want to use on premises and old data i want to move to glacier using aws storage gateway.
+
+
+
+
